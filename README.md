@@ -1,3 +1,3 @@
 # hello-world
-a first one ever
+A first one ever.
 Albo i nie. Taki całkiem pierwszy to nie.
